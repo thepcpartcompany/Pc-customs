@@ -1,2 +1,3 @@
-# Pc-customsgit clone https://github.com/thepcpartcompany/custom-pc-builder.git
+git clone https://github.com/YOUR_USERNAME/custom-pc-builder.git
 cd custom-pc-builder
+
